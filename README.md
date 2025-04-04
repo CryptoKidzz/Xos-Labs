@@ -11,7 +11,7 @@
 ## Installation
 1. Clone this repository
 ```bash
-git clone https://github.com/0x-Disciple/Xos-Labs.git cd Xos-Labs
+git clone https://github.com/CryptoKidzz/Xos-Labs.git cd Xos-Labs
 ```
 2. Install dependencies
 ```bash
