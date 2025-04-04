@@ -14,17 +14,17 @@
 git clone https://github.com/CryptoKidzz/Xos-Labs.git cd Xos-Labs
 ```
 2. Install dependencies
-bash
+```bash
 npm install
 ```
 3. Create screen 
-bash
+```bash
 screen -S name screen
 ```
 4. Fill in your bearer token in `token.txt`
 
 5. Run
-bash
+```bash
 node index.js
 ```
 
