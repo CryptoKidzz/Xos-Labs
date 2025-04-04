@@ -11,7 +11,7 @@
 ## Installation
 1. Clone this repository
 ```bash
-git clone https://github.com/CryptoKidzz/Xos-Labs.git cd Xos-Labs
+git clone https://github.com/0x-Disciple/Xos-Labs.git cd Xos-Labs
 ```
 2. Install dependencies
 ```bash
@@ -29,3 +29,4 @@ node index.js
 ```
 
 Thank you for visiting this repository, don't forget to contribute in the form of follows and stars# Xos-Labs
+# Xos-Labs
